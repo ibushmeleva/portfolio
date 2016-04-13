@@ -5,10 +5,28 @@ date:   2016-04-13
 preview: http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02155.jpg
 ---
 
-![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02135.jpg)
-![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02136.jpg)
-![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02137.jpg)
-![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02139.jpg)
+<figure>
+    <a href="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02135.jpg"><img alt="Это альтернативный Text" title="Это всплывающий Text" src="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02135.jpg"></a>
+    <figcaption>А это Text подписи</figcaption>
+</figure>
+
+<figure>
+    <a href="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02136.jpg"><img alt="Это альтернативный Text" title="Это всплывающий Text" src="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02136.jpg"></a>
+    <figcaption>А это Text подписи</figcaption>
+</figure>
+
+<figure>
+    <a href="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02137.jpg"><img alt="Это альтернативный Text" title="Это всплывающий Text" src="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02137.jpg"></a>
+    <figcaption>А это Text подписи</figcaption>
+</figure>
+
+<figure>
+    <a href="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02131.jpg"><img alt="Это альтернативный Text" title="Это всплывающий Text" src="http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02135.jpg"></a>
+    <figcaption>А это Text подписи</figcaption>
+</figure>
+
+
+
 ![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02140.jpg)
 ![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02141.jpg)
 ![Picture 1](http://bushmelev.ru/images/stories/art/bracelets-belts/DSC02144.jpg)
