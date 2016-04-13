@@ -2,4 +2,4 @@
 
 A jekyll theme for visual artists
 
-Live-Demo: http://narkotyk.net/
+The bests artists
