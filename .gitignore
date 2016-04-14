@@ -9,3 +9,9 @@ node_modules
 .*.*
 *~
 *.log
+
+_asset_bundler_cache
+.jekyll-assets-cache
+.asset-cache
+.bundle
+.jekyll-metadata
